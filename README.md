@@ -1,7 +1,7 @@
 # Project-01-Community-Board
 
 ## Description
-Community Board is a React-based application designed to free and low-cost healthcare resources in the state of Georgia.
+Community Board is a React-based application offering a directory of free and low-cost healthcare resources in the state of Georgia.
 
 ## Features
 - Displays **free & low-cost hospitals** dynamically using React components.
