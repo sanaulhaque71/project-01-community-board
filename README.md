@@ -43,7 +43,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was not able to implement the optional feature "Web app is showed in mobile format". I will add this feature later.
 
 ## License
 
