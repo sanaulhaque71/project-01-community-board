@@ -22,8 +22,8 @@ The following **optional** features are implemented:
 
 - [x] Buttons or links to a related resources are on each card component
   - [x] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is shown in a mobile format
 
 The following **additional** features are implemented:
 
@@ -43,7 +43,8 @@ GIF created with ...
 
 ## Notes
 
-I was not able to implement the optional feature "Web app is showed in mobile format". I will add this feature later.
+Blocker: Initially I did not know how to show that my webapp is responsive in mobile format.
+Resolution: While tinkering with the dev tools, I found out there is an option to emulate mobile device display in the browser, and my webapp is responsive in both desktop and mobile format.
 
 ## License
 
