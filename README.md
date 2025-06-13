@@ -20,8 +20,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
+- [x] Buttons or links to a related resources are on each card component
+  - [x] All cards have buttons or links in addition to text
 - [ ] The site is responsive for both desktop and mobile formats
   - [ ] Web app is shown in a mobile format
 
