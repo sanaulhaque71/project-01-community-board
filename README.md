@@ -4,7 +4,7 @@ Submitted by: **Sanaul Haque**
 
 This web app: **Community Board is a React-based application offering a directory of free and low-cost healthcare resources in the state of Georgia.**
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
