@@ -8,7 +8,7 @@ const Card = ({ name, address, phone, cost, link, maps }) => {
       <p>📞 {phone}</p>
       <p>💲 {cost}</p>
       <p>🌐 <a href={link}>{name}</a></p>
-      <p>🗺️ <a href={maps} target="_blank" rel="noopener noreferrer">View on Google Maps</a></p>
+      <p>🗺️ <a href={maps}>View on Google Maps</a></p>
     </div>
   );
 };
