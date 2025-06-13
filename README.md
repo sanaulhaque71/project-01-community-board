@@ -43,8 +43,8 @@ GIF created with ...
 
 ## Notes
 
-Blocker: Initially I did not know how to show that my webapp is responsive in mobile format.
-Resolution: While tinkering with the dev tools, I found out there is an option to emulate mobile device display in the browser, and my webapp is responsive in both desktop and mobile format.
+- Blocker: Initially I did not know how to show that my webapp is responsive in mobile format.
+- Resolution: While tinkering with the dev tools, I found out there is an option to emulate mobile device display in the browser, and my webapp is responsive in both desktop and mobile format.
 
 ## License
 
